@@ -1,0 +1,10 @@
+{ "0": ["airplane", "airplane"],
+  "1": ["automobile", "automobile"],
+  "2": ["bird", "bird"],
+  "3": ["cat", "cat"],
+  "4": ["deer", "deer"],
+  "5": ["dog", "dog"],
+  "6": ["frog", "frog"],
+  "7": ["horse", "horse"],
+  "8": ["ship", "ship"],
+  "9": ["truck", "truck"]     }
